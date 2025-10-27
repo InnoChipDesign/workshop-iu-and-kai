@@ -1,6 +1,7 @@
 # Workshop planning
 
 Preliminary workshop date is 15 November 2025.
+
 Language: Russian.
 
 ## Plan
@@ -35,4 +36,5 @@ Overall time of the event is 3-4 hours plus lunch break at the canteen in the mi
 5. Checking correctness with testbench.
 6. Implementation of the ALU.
 6. Final full check with final testbench.
+
 
