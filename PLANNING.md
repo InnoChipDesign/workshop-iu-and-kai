@@ -1,6 +1,6 @@
 # Workshop planning
 
-Preliminary workshop date is 15 November 2025.
+Preliminary workshop date is 29 November 2025.
 
 Language: Russian.
 
@@ -9,10 +9,15 @@ Language: Russian.
 Overall time of the event is 3-4 hours plus lunch break at the canteen in the middle.
 
 1. Foreword. Couple of words about the University, about room setup, about plan.
-2. Introduction. Discussion about Chip Design School.
-3. Presentation to the ALU Task. Explanation of the class planning.
-4. Theoretical part.
-5. Practical part.
+2. Introduction.
+   - Discussion about Chip Design School in general, supported by Yadro.
+   - Historical reference about Yuri Panchul and MIET.
+   - Demonstration of the School lecture topics, practical exercises on FPGA boards and homeworks.
+   - Mention of the MIET's APS course for students interested specifically in RISC-V processors.
+   - Discussion about the SoC Challenge by Yadro. Presentation of the tracks: RTL, Topology, System Programming. Team formation for '26. Maybe example of the previous year task for RTL Junior track and Sys Programming.
+4. Presentation to the ALU Task. Explanation of the class planning.
+5. Theoretical part.
+6. Practical part.
 
 ### Theoretical part plan
 
@@ -36,5 +41,6 @@ Overall time of the event is 3-4 hours plus lunch break at the canteen in the mi
 5. Checking correctness with testbench.
 6. Implementation of the ALU.
 6. Final full check with final testbench.
+
 
 
